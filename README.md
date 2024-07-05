@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="linkedin.com/in/sidra-raza-9442132b9">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/linkedIn-white?style=for-the-badge&logo=linkedIn&logoColor=black" alt="linkedIn Badge"/>
   </a>
 </div>
 
