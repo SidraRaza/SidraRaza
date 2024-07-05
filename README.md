@@ -19,7 +19,7 @@
 
 ![Sidra Raza GitHub stats](https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiraRaza&theme=dark)
 
 
 <br>
