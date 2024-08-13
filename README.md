@@ -15,7 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,tailwindCss,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
 
 ![Sidra Raza GitHub stats](https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=dark)
 
