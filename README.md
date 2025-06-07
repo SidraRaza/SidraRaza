@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sidra Raza</h1>
 
-- 🔭 I’m currently working on Next.js 
+- 🔭 I’m currently working on Agentic AI
 - 🌱 I’m currently learning Web 3.0,AI & Metaverse 
 - 📫 How to reach me: sidra680@gmail.com
   
