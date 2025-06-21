@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Agentic AI
 - 🌱 I’m currently learning Web 3.0,AI & Metaverse 
-- 📫 How to reach me: sidra680@gmail.com
+- 📫 How to reach me: sidraraza680@gmail.com
   
 ### Connect with me:
 <div id="badges">
