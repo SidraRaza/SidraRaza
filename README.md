@@ -1,11 +1,20 @@
 <!-- 🌟 Professional GitHub Profile README — Sidra Raza -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines= +Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=+Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" 
+    alt="Typing SVG" 
+  />
 </div>
+
 ---
-<h3 align="center">💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner</h3>
+
+<h3 align="center">
+  💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner
+</h3>
+
 ---
+
 
 ### 👩‍💻 About Me  
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
