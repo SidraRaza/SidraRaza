@@ -76,17 +76,12 @@
 ### 🧠 Language Distribution
 <div align="center">
 
-💻 **My Coding Languages Overview**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Language stats" />
-
-<p><i>Focus on TypeScript, JavaScript, and modern full-stack technologies.</i></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
-
-
 ---
+
 
 > 💡 **Sidra Raza** — Turning ideas into intelligent digital experiences ⚡  
 > *Focused on Agentic AI, Web 3.0, and Full Stack Innovation.*
