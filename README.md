@@ -53,11 +53,42 @@
 
 ---
 
-### 📊 GitHub Overview  
+<!-- ========================= -->
+<!-- GitHub Overview - Sidra Raza -->
+<!-- ========================= -->
+
+## 📈 GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sidra's GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Contribution Calendar (ghchart by rshah) -->
+  <img src="https://ghchart.rshah.org/SidraRaza" alt="Contribution Chart" />
+
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraRaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Small summary badges -->
+  <img src="https://img.shields.io/badge/Most%20used-JavaScript-blue?style=flat-square&logo=javascript" alt="Most used language" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-00E5FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=flat-square" alt="Role" />
+</p>
+
+**Quick notes**
+- These cards update automatically (they are images served by the readme-stats & ghchart services).  
+- If you prefer a different color theme replace `theme=tokyonight` with `theme=radical`, `theme=dark`, `theme=merko`, etc.
+- To hide private or unwanted stats, adjust query params on the readme-stats URLs (see readme-stats docs).
+
+<!-- End GitHub Overview -->
+
 
 ---
 
