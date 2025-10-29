@@ -1,15 +1,16 @@
-<!-- Modern GitHub README for Sidra Raza -->
+<!-- 🚀 Enhanced Modern GitHub README for Sidra Raza -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Sidra Raza</span></h1>
-<h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | Future Tech Innovator</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Tech Explorer</h3>
 
 ---
 
 ### 🧠 About Me  
-💻 Currently exploring **Agentic AI** and building intelligent applications.  
-🌱 Learning **Web 3.0, AI & Metaverse** technologies.  
-🎯 Focused on mastering **Next.js, TypeScript, and Tailwind CSS**.  
-📫 Reach me at: **sidraraza680@gmail.com**
+🚀 I’m currently exploring the world of **Agentic AI** — building intelligent, autonomous systems that think and act.  
+💡 As a **Full Stack Developer**, I love turning innovative ideas into powerful, scalable web applications.  
+🌱 I’m learning and growing in **Web 3.0, AI, and the Metaverse**, focusing on blending intelligence with interactivity.  
+🎯 My goal is to bridge the gap between **AI and modern web development** to create next-gen digital experiences.  
+📫 **Reach me at:** [sidraraza680@gmail.com](mailto:sidraraza680@gmail.com)
 
 ---
 
@@ -28,12 +29,21 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### ⚙️ Tech Stack & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,react,nodejs,py,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,react,nodejs,express,mongodb,py,git,github,vscode" />
   </a>
 </p>
+
+---
+
+### 🧩 Featured Projects  
+💼 **Next.js Portfolio Website** – Responsive & modern portfolio with Tailwind CSS  
+📰 **Dynamic Blog Platform** – Create, edit & manage posts using Next.js + TypeScript  
+🔐 **Authentication System** – NextAuth.js with full TypeScript integration  
+🤖 **Agentic AI Demo** – AI-driven interaction system using TypeScript & Node.js  
+⏱️ **Countdown Timer App** – Elegant, interactive timer built with TypeScript  
 
 ---
 
@@ -49,20 +59,19 @@
 
 ---
 
-### 💫 Fun Fact  
-> “Technology empowers me to turn ideas into real-world solutions.”
+### 🧠 Current Focus  
+🌍 Exploring **Agentic AI architecture** and autonomous decision-making systems  
+⚡ Building **scalable full stack apps** with **Next.js**, **TypeScript**, and **Node.js**  
+🧩 Combining **AI + Web 3.0** concepts for futuristic user experiences  
 
 ---
 
-### ⚡ Latest Projects  
-- 🚀 **Next.js Portfolio Website** – Showcasing my work & skills  
-- 🧩 **Blog Platform** – Built with Next.js, Tailwind, and TypeScript  
-- 🔐 **Authentication App** – NextAuth.js with TypeScript integration  
-- ⏰ **Countdown Timer App** – Responsive and built with TypeScript  
+### 💬 Quote I Live By  
+> “Code is the language that teaches machines how to dream.” ✨  
 
 ---
 
-### 🩵 Support Me  
+### ☕ Support My Work  
 <p align="center">
   <a href="https://github.com/SidraRaza">
     <img src="https://img.shields.io/badge/⭐_Star_My_Projects-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,4 +80,4 @@
 
 ---
 
-<p align="center">✨ From <a href="https://github.com/SidraRaza">Sidra Raza</a> — Crafting the Future with Code 💻</p>
+<p align="center">✨ From <a href="https://github.com/SidraRaza">Sidra Raza</a> — Crafting the Future with Code, AI, and Imagination 🤍</p>
