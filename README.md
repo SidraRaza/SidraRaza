@@ -77,8 +77,8 @@
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=320" height="180" width="300"/>
-  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=tokyonight&hide_border=true" height="200" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" width="300"/>
+  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=tokyonight&hide_border=true" height="180" width="300"/>
 </div>
 
 ---
