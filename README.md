@@ -11,7 +11,7 @@
 ---
 
 <h3 align="center">
-  💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner
+  💼 Full Stack Developer | 🤖 Agentic AI Enthusiast 
 </h3>
 
 ---
