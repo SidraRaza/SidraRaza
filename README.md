@@ -70,11 +70,21 @@
 </p>
 
 
+---
+---
 
 ### 🧠 Language Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=pie&theme=tokyonight&hide_border=true" height="250" />
-</p>
+<div align="center">
+
+💻 **My Coding Languages Overview**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Language stats" />
+
+<p><i>Focus on TypeScript, JavaScript, and modern full-stack technologies.</i></p>
+
+</div>
+
+
 
 ---
 
