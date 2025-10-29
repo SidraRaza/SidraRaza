@@ -54,40 +54,61 @@
 ---
 
 <!-- ========================= -->
-<!-- GitHub Overview - Sidra Raza -->
+<!-- ⚡ Premium GitHub Overview — Sidra Raza -->
 <!-- ========================= -->
 
-## 📈 GitHub Overview
+## 📊 GitHub Overview
 
+<div align="center">
+
+<!-- 💎 GitHub Stats Graph -->
+<img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" height="180" />
+
+<!-- 💡 Streak Graph -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SidraRaza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity Graph
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sidra's GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Sidra's Activity Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <!-- Contribution Calendar (ghchart by rshah) -->
-  <img src="https://ghchart.rshah.org/SidraRaza" alt="Contribution Chart" />
+---
 
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraRaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🧮 Numerical Highlights
+
+| Metric | Data |
+|--------|------|
+| ⭐ **Total Stars Earned** | `125+` |
+| 🍴 **Total Forks** | `22` |
+| 🧠 **Total Commits (2024)** | `1,120+` |
+| 🏗️ **Total Repositories** | `15 Public` / `5 Private` |
+| 🕐 **Coding Hours (Estimated)** | `~750+` |
+| 🌍 **Most Active Time** | `Evening (6–10 PM)` |
+| 💬 **Top Language Used** | `TypeScript & JavaScript` |
+
+---
+
+### 🧠 Language Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=pie&theme=tokyonight&hide_border=true" height="250" />
 </p>
 
-<p align="center">
-  <!-- Small summary badges -->
-  <img src="https://img.shields.io/badge/Most%20used-JavaScript-blue?style=flat-square&logo=javascript" alt="Most used language" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-00E5FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=flat-square" alt="Role" />
-</p>
+---
 
-**Quick notes**
-- These cards update automatically (they are images served by the readme-stats & ghchart services).  
-- If you prefer a different color theme replace `theme=tokyonight` with `theme=radical`, `theme=dark`, `theme=merko`, etc.
-- To hide private or unwanted stats, adjust query params on the readme-stats URLs (see readme-stats docs).
+### 💡 Summary
 
-<!-- End GitHub Overview -->
+> **Sidra Raza** — a Full Stack Developer blending creativity and intelligence.  
+> Focused on **Agentic AI, Web 3.0, and scalable full-stack applications**.  
+> Always learning, always building, always evolving 🚀
+
+---
+
+<p align="center">✨ Designed by <a href="https://github.com/SidraRaza">Sidra Raza</a> — Transforming Ideas into Intelligent Code ⚡</p>
+
 
 
 ---
