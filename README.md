@@ -1,15 +1,18 @@
 <!-- 🌟 Professional GitHub Profile README — Sidra Raza -->
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines= +Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" alt="Typing SVG" />
-</div> 
---- 
-<h3 align="center">💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner</h3> ---
+<div align="center">
+
+<h1 align="center">Hi 👋, I'm Sidra Raza</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" alt="Typing SVG" />
+
+</div>
+
 ---
 
 <h3 align="center">💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner</h3>
 
 ---
-
 
 ### 👩‍💻 About Me  
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
@@ -52,22 +55,18 @@
 
 ---
 
----
-
 ### 🧠 Language Distribution
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
-</td>
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -76,10 +75,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" />
- <img src="https://streak-stats.demolab.com?user=SidraRaza&theme=tokyonight&hide_border=true&t=1" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
 </div>
-
-
 
 ---
 
@@ -88,12 +85,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Sidra's Activity Graph" width="95%"/>
 </p>
 
-
 ---
-
-
-
-
 
 > 💡 **Sidra Raza** — Turning ideas into intelligent digital experiences ⚡  
 > *Focused on Agentic AI, Web 3.0, and Full Stack Innovation.*
