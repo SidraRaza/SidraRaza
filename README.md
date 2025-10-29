@@ -53,24 +53,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SidraRaza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-
-</div>
-
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Sidra's Activity Graph" width="95%"/>
-</p>
-
-
----
 ---
 
 ### 🧠 Language Distribution
@@ -90,6 +72,26 @@
 </div>
 
 ---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SidraRaza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Sidra's Activity Graph" width="95%"/>
+</p>
+
+
+---
+
 
 
 
