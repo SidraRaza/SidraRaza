@@ -77,7 +77,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" />
-  <img src="https://streak-stats.demolab.com?user=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+
 </div>
 
 
