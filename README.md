@@ -76,13 +76,21 @@
 ### 🧠 Language Distribution
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
-
+</td>
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
 
 
 
