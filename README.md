@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Sidra+Raza;Full+Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" alt="Typing SVG" />
+<h1>Hi 👋, I'm Sidra Raza</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡" alt="Typing SVG" />
 
 </div>
 
@@ -11,6 +13,7 @@
 <h3 align="center">💼 Full Stack Developer | 🤖 Agentic AI Enthusiast | 🌐 Web 3.0 Learner</h3>
 
 ---
+
 
 ### 👩‍💻 About Me  
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
