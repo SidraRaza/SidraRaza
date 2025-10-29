@@ -2,7 +2,7 @@
 
 <div align="center">
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Sidra+Raza+-+Full+Stack+Developer+💻;Agentic+AI+Learner+🤖;Building+Intelligent+Digital+Experiences+⚡"
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Sidra+Raza+-+Full+Stack+Developer+💻;Agentic+AI+Developer+🤖;Building+Intelligent+Digital+Experiences+⚡"
   alt="Typing SVG"
 />
 
