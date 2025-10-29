@@ -53,18 +53,12 @@
 
 ---
 
-<!-- ========================= -->
-<!-- ⚡ Premium GitHub Overview — Sidra Raza -->
-<!-- ========================= -->
-
 ## 📊 GitHub Overview
 
 <div align="center">
 
-<!-- 💎 GitHub Stats Graph -->
 <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" height="180" />
 
-<!-- 💡 Streak Graph -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SidraRaza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
@@ -85,7 +79,7 @@
 | ⭐ **Total Stars Earned** | `125+` |
 | 🍴 **Total Forks** | `22` |
 | 🧠 **Total Commits (2024)** | `1,120+` |
-| 🏗️ **Total Repositories** | `15 Public` / `5 Private` |
+| 🏗️ **Total Repositories** | `15 Public / 5 Private` |
 | 🕐 **Coding Hours (Estimated)** | `~750+` |
 | 🌍 **Most Active Time** | `Evening (6–10 PM)` |
 | 💬 **Top Language Used** | `TypeScript & JavaScript` |
@@ -99,16 +93,8 @@
 
 ---
 
-### 💡 Summary
-
-> **Sidra Raza** — a Full Stack Developer blending creativity and intelligence.  
-> Focused on **Agentic AI, Web 3.0, and scalable full-stack applications**.  
-> Always learning, always building, always evolving 🚀
-
----
-
-<p align="center">✨ Designed by <a href="https://github.com/SidraRaza">Sidra Raza</a> — Transforming Ideas into Intelligent Code ⚡</p>
-
+> 💡 **Sidra Raza** — Transforming Ideas into Intelligent Code ⚡  
+> *Focused on Agentic AI, Web 3.0, and Full Stack Development.*
 
 
 ---
