@@ -76,11 +76,14 @@
 ### 🧠 Language Distribution
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
 ---
+
 
 
 > 💡 **Sidra Raza** — Turning ideas into intelligent digital experiences ⚡  
