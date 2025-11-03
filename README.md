@@ -88,12 +88,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Sidra's Activity Graph" width="95%"/>
 </p>
 
----
 
-> 💡 **Sidra Raza** — Turning ideas into intelligent digital experiences ⚡  
-> *Focused on Agentic AI, Web 3.0, and Full Stack Innovation.*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
