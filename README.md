@@ -50,7 +50,7 @@
 ---
 
 ### 🚀 Featured Projects  
-🧠 **Agentic AI System** – Autonomous, goal-driven task agents built with TypeScript  
+🧠 **Agentic AI System** – Autonomous, goal-driven task agents  
 🌐 **Next.js Portfolio** – Modern, responsive personal portfolio website  
 📰 **Blog Platform** – Dynamic post creation with Next.js + TypeScript  
 🔐 **Auth App** – Secure authentication using NextAuth.js  
