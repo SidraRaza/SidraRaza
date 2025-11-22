@@ -54,7 +54,6 @@
 🌐 **Next.js Portfolio** – Modern, responsive personal portfolio website  
 📰 **Blog Platform** – Dynamic post creation with Next.js + TypeScript  
 🔐 **Auth App** – Secure authentication using NextAuth.js  
-⏱️ **Countdown Timer** – Minimal, interactive app built in TypeScript  
 
 ---
 
