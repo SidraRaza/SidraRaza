@@ -9,14 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
 </p>
 
----
-
-<h3 align="center">
-  💼 Full Stack Developer | 🤖 Agentic AI Enthusiast 
-</h3>
-
----
-
 
 ### 👩‍💻 About Me  
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
