@@ -21,7 +21,6 @@
 
 ---
 
-
 ### 👩‍💻 About Me  
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
 🚀 Currently exploring **Agentic AI** — developing systems that can reason, learn, and act autonomously.  
@@ -29,6 +28,7 @@
 📫 **Reach me at:** [sidraraza680@gmail.com](mailto:sidraraza680@gmail.com)
 
 ---
+
 
 ### 🌐 Connect With Me  
 <p align="center">
