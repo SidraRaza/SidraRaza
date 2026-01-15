@@ -21,7 +21,7 @@
 
 ---
 
-### 👩‍💻 About Me  
+### 👋 About Me 
 💡 I’m **Sidra Raza**, a passionate **Full Stack Developer** focused on building smart, scalable, and high-impact web applications.  
 🚀 Currently exploring **Agentic AI** — developing systems that can reason, learn, and act autonomously.  
 🌱 Expanding my expertise in **Next.js**, **TypeScript**, and **AI-powered web ecosystems**.  
