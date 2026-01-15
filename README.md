@@ -1,7 +1,7 @@
 <!-- 🌟 Professional GitHub Profile README — Sidra Raza -->
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
-  <span style="color:#ff4500;">⚡ Sidra Raza⚡</span>
+  <span style="color:#ff4500" style="font-family: 'Poppins', sans-serif; font-weight: bold">⚡ Sidra Raza⚡</span>
 </h1>
 <h3 align="center" style="color:#f7b42c;">⚡Full Stack & Agentic AI Developer⚡</h3>
 
