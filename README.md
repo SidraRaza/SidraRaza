@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Animated Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=48,10,2&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4,10,48&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
 
 </div>
 
@@ -61,7 +61,7 @@
 ---
 
 ### 🚀 Featured Projects
-<p align="center">
+<p align="left">
   <b>🧠 Agentic AI System</b> – Autonomous goal-driven AI agents <br/>
   <b>🌐 Next.js Portfolio</b> – Responsive, modern personal portfolio <br/>
   <b>📰 Blog Platform</b> – Dynamic post creation with Next.js + TypeScript <br/>
