@@ -1,37 +1,37 @@
 <!--
 ═══════════════════════════════════════════════════════════════════
   SIDRA RAZA - Cyberpunk Full Stack & Agentic AI Developer
-  Enhanced, Animated, Market-Standard GitHub README
+  Enhanced, Animated, Neon-Green Theme GitHub README
 ═══════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<!-- Neon Animated Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,30,40&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20•%20Agentic%20AI%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" />
+<!-- Neon Green Animated Title -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=00FF00,00FF55,00FFAA&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20•%20Agentic%20AI%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" />
 
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%A0+Training+AI+Agents;%F0%9F%9A%80+Crafting+Web3+DApps;%F0%9F%94%A5+Turning+Coffee+Into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%A0+Training+AI+Agents;%F0%9F%9A%80+Crafting+Web3+DApps;%F0%9F%94%A5+Turning+Coffee+Into+Code" alt="Typing Animation" />
 </p>
 
 <!-- Animated Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=PROFILE+VIEWS&color=FF6EC7&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SidraRaza?label=FOLLOWERS&style=for-the-badge&color=FF4500&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SidraRaza?label=STARS&style=for-the-badge&color=00FFF7&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SidraRaza?label=FOLLOWERS&style=for-the-badge&color=00FF00&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SidraRaza?label=STARS&style=for-the-badge&color=00FF00&logo=github&logoColor=white" alt="Stars" />
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
 </p>
 
 ---
 
-<!-- Cyberpunk Profile Image -->
+<!-- Cyberpunk Neon-Green Profile Image -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"
        width="240" height="240"
-       style="border-radius:50%; border:5px solid #FF6EC7; box-shadow: 0 0 30px #FF6EC7, 0 0 50px #00FFF7;" />
+       style="border-radius:50%; border:5px solid #00FF00; box-shadow: 0 0 30px #00FF00, 0 0 50px #00FFAA;" />
 </p>
 
 ---
@@ -50,10 +50,10 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F"/>
   </a>
   <a href="https://linkedin.com/in/sidra-raza-9442132b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sidraraza680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">🌸 Designed & Coded by <a href="https://github.com/SidraRaza">Sidra Raza</a> — **Cyberpunk Developer & Agentic AI Innovator** ⚡</p>
