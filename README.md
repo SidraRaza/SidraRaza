@@ -1,13 +1,29 @@
-<!-- 🌟 Professional GitHub Profile README — Sidra Raza -->
+<!-- 
+═══════════════════════════════════════════════════════════════════
+  MOHSIN RAZA - Cyberpunk Developer Profile
+  A Stunning GitHub README with Advanced Animations & Visual Effects
+═══════════════════════════════════════════════════════════════════
+-->
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
-  <span style="color:#ff4500">⚡ Sidra Raza⚡</span>
-</h1>
-<h2 align="center" style="color:#f7b42c"; style="font-family: 'Poppins', sans-serif; font-weight: bold">⚡Full Stack & Agentic AI Developer⚡</h2>
+<div align="center">
 
+<!-- Animated Glitch Title -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=MOHSIN%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
+
+</div>
+
+<!-- Typing Animation with Multiple Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Agentic+AI+Developer;🎯+Passionate+Learner" />
-</p>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%A0+Training+AI+Agents;%F0%9F%9A%80+Crafting+Web3+DApps;%F0%9F%94%A5+Turning+Coffee+Into+Code" alt="Typing Animation" />
+</p>
+
+<!-- Dynamic Badges with Animation Effect -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohsinraza23&label=PROFILE+VIEWS&color=ff4500&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohsinraza23?label=FOLLOWERS&style=for-the-badge&color=f7b42c&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mohsinraza23?label=STARS&style=for-the-badge&color=ff4500&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+</p>
 
 
 ---
