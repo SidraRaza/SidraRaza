@@ -28,7 +28,8 @@
 
 ---
 
-<p align="center"> <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="240" height="240" style="border-radius:50%; border:5px solid #00FFE0; box-shadow: 0 0 20px #00FFE0, 0 0 40px #39C0FF, 0 0 60px #FFAA33;" /> </p>
+<p align="center">      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Nm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+ </p>
 
 
 ---
