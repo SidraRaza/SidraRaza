@@ -18,13 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=39C0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%A0+Training+AI+Agents;%F0%9F%9A%80+Crafting+Web3+DApps;%F0%9F%94%A5+Turning+Coffee+Into+Code" alt="Typing Animation" />
 </p>
 
-<!-- Animated Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=PROFILE+VIEWS&color=00FFE0&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SidraRaza?label=FOLLOWERS&style=for-the-badge&color=39C0FF&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SidraRaza?label=STARS&style=for-the-badge&color=FFAA33&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FFE0?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-</p>
+
 
 <table border="0">
   <tr>
