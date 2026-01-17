@@ -7,10 +7,11 @@
 
 <div align="center">
 
-<!-- Neon Animated Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=00FFE0,39C0FF,FFAA33&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20•%20Agentic%20AI%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" />
+<!-- Neon Animated Glitch Title in Blue Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=00BFFF,39C0FF,1E90FF&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20•%20Agentic%20AI%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" />
 
 </div>
+
 
 <!-- Typing Animation -->
 <p align="center">
