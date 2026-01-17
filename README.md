@@ -1,6 +1,6 @@
 <!-- 
 ═══════════════════════════════════════════════════════════════════
-  MOHSIN RAZA - Cyberpunk Developer Profile
+  SIDRA RAZA - Cyberpunk Developer Profile
   A Stunning GitHub README with Advanced Animations & Visual Effects
 ═══════════════════════════════════════════════════════════════════
 -->
