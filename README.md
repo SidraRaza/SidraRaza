@@ -26,21 +26,23 @@
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00FFE0?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
 </p>
 
----
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>👋 <b>About Me</b></p>
+      <ul>
+        <li>💡 I’m <b>Sidra Raza</b>, a passionate Full Stack & AI Developer building smart, scalable, autonomous web systems.</li>
+        <li>🚀 Currently exploring <b>Agentic AI</b> — systems that learn, reason, and act independently.</li>
+        <li>🌱 Expanding expertise in <b>Next.js</b>, <b>TypeScript</b>, AI ecosystems, and Web3 applications.</li>
+        <li>📫 Reach me at: <a href="mailto:sidraraza680@gmail.com">sidraraza680@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Nm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Nm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
- </p>
-
-
----
-
-### 👋 About Me
-💡 I’m **Sidra Raza**, a passionate **Full Stack & AI Developer** building **smart, scalable, autonomous web systems**.  
-🚀 Currently exploring **Agentic AI** — systems that **learn, reason, and act independently**.  
-🌱 Expanding expertise in **Next.js**, **TypeScript**, **AI ecosystems**, and **Web3 applications**.  
-📫 **Reach me at:** [sidraraza680@gmail.com](mailto:sidraraza680@gmail.com)
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
