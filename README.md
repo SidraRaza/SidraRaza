@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Animated Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,10,48&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=48,10,2&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://github.com/SidraRaza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F"/>
   </a>
@@ -54,7 +54,7 @@
 ---
 
 ### ⚡ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,react,nodejs,express,mongodb,py,git,github,vscode&theme=dark" />
 </p>
 
