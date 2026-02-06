@@ -5,9 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:0D1117,100:1F6FEB&text=Sidra%20Raza&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=1F6FEB&text=Sidra%20Raza&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=65&descSize=18" width="100%" />
 
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;AI+Agent+Systems+Developer;Next.js+%2B+TypeScript+Expert;Focused+on+Clean+Architecture" />
