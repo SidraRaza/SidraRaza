@@ -120,11 +120,3 @@ Authentication using NextAuth.js with protected routes.
 - Real-world production projects  
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=1F6FEB&style=flat"/>
-</p>
-
-<p align="center">
-  <b>Sidra Raza</b><br/>
-  Full Stack Developer • AI Engineer • Future Tech Builder
-</p>
