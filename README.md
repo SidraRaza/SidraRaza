@@ -1,133 +1,122 @@
 <!-- =========================================================
-   SIDRA RAZA — Full Stack Developer | AI Engineer
-   Premium Professional GitHub README
+   SIDRA RAZA — PROFESSIONAL GITHUB PROFILE README
+   Clean • Modern • Recruiter Friendly
 ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sidra%20Raza&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Next.js%20Specialist&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:141E30,100:243B55&text=Sidra%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=60&descSize=18" width="100%" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=700&color=00E6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Apps;AI+Agent+Systems+Developer;Next.js+%2B+TypeScript+Expert;Turning+Ideas+Into+Real+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=1000&color=4FA3FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Next.js+%7C+TypeScript+Specialist;Building+Production+Level+Applications" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-Hi, I'm **Sidra Raza** — a passionate **Full Stack Developer & AI Engineer** focused on building intelligent, scalable, and modern web systems.
+I am **Sidra Raza**, a dedicated **Full Stack Developer & AI Engineer** focused on building scalable, high-performance web applications and intelligent systems.
 
-- 🚀 Building real-world production-level projects  
-- 🧠 Exploring **Agentic AI Systems**  
-- 🌐 Creating fast, responsive apps using **Next.js + TypeScript**  
-- 🔐 Strong focus on **Authentication, Security & Performance**  
-- 📈 Continuously learning and improving  
+- 💼 Strong focus on production-level development  
+- 🧠 Learning and building **Agentic AI Systems**  
+- ⚙️ Specialized in **Next.js, TypeScript, and modern web architecture**  
+- 🔐 Experience with authentication and secure systems  
+- 📈 Continuously improving through real-world projects  
 
-📫 **Email:** sidraraza680@gmail.com  
+📩 **Contact:** sidraraza680@gmail.com  
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Professional Links
 
 <p align="left">
   <a href="https://github.com/SidraRaza">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sidra-raza-9442132b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sidraraza680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Frontend
-- HTML5, CSS3, Tailwind CSS  
-- JavaScript, TypeScript  
-- React.js, Next.js  
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
 
-### 🧠 Backend
-- Node.js  
-- Express.js  
-- MongoDB  
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- REST APIs  
-- Authentication Systems  
-
----
-
-# 🚀 Featured Projects
-
-### 🧠 Agentic AI System
-Autonomous AI agents that think, learn, and perform tasks.
-
-### 🌐 Next.js Portfolio
-Modern responsive portfolio with best UI/UX practices.
-
-### 📰 Blog Platform
-Dynamic blog with post creation using Next.js + TypeScript.
-
-### 🔐 Auth App
-Secure authentication using NextAuth.js and JWT.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=tokyonight&hide_border=true" height="170"/>
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🚀 Key Projects
+
+**AI Agent System**  
+Autonomous AI workflow agents designed for intelligent task execution.
+
+**Next.js Portfolio**  
+Modern responsive personal website using Next.js + TypeScript.
+
+**Blog Platform**  
+Dynamic blog with post creation and routing.
+
+**Authentication System**  
+Secure login system using NextAuth.js.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 ---
 
-# 🧠 Most Used Languages
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- Agentic AI Development  
-- Full Stack Production Apps  
-- System Design  
+- Advanced Full Stack Development  
+- AI Agent Architectures  
+- System Design & Scalability  
 - Performance Optimization  
 
 ---
 
-# 💡 Developer Mindset
+# 🧠 Professional Philosophy
 
-> “I don’t just build projects — I build systems that solve real problems.”
+> Building clean, scalable, and intelligent software that solves real-world problems.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=1F6FEB&style=flat"/>
 </p>
 
 <p align="center">
-  ⭐ Designed & Built by <b>Sidra Raza</b>  
-  <br/>
-  <i>Full Stack Developer • AI Engineer • Future Innovator</i>
+  <b>Sidra Raza</b><br/>
+  Full Stack Developer • AI Engineer
 </p>
