@@ -5,9 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=1F6FEB&text=Sidra%20Raza&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=2F4B7C&text=Sidra%20Raza&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Next.js%20Specialist&descAlignY=65&descSize=18" width="100%" />
 
 </div>
+
 
 
 <p align="center">
