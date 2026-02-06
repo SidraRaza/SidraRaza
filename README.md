@@ -119,13 +119,6 @@ Authentication using NextAuth.js with protected routes.
 - Backend optimization  
 - Real-world production projects  
 
----
-
-# 💭 Developer Philosophy
-
-> I believe in building software that is simple, scalable, and meaningful — not just functional.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=1F6FEB&style=flat"/>
