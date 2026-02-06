@@ -1,108 +1,133 @@
-<!--
-═══════════════════════════════════════════════════════════════════
-  SIDRA RAZA - Cyberpunk Full Stack & Agentic AI Developer
-  Premium Neon-Cyberpunk GitHub README
-═══════════════════════════════════════════════════════════════════
--->
+<!-- =========================================================
+   SIDRA RAZA — Full Stack Developer | AI Engineer
+   Premium Professional GitHub README
+========================================================= -->
 
 <div align="center">
 
-<!-- Animated Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=8,10,60&text=SIDRA%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sidra%20Raza&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Next.js%20Specialist&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=39C0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%A0+Training+AI+Agents;%F0%9F%9A%80+Crafting+Web3+DApps;%F0%9F%94%A5+Turning+Coffee+Into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=700&color=00E6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Apps;AI+Agent+Systems+Developer;Next.js+%2B+TypeScript+Expert;Turning+Ideas+Into+Real+Products" />
 </p>
 
+---
 
+# 👩‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>👋 <b>About Me</b></p>
-      <ul>
-        <li>💡 I’m <b>Sidra Raza</b>, a passionate Full Stack & AI Developer building smart, scalable, autonomous web systems.</li>
-        <li>🚀 Currently exploring <b>Agentic AI</b> — systems that learn, reason, and act independently.</li>
-        <li>🌱 Expanding expertise in <b>Next.js</b>, <b>TypeScript</b>, AI ecosystems, and Web3 applications.</li>
-        <li>📫 Reach me at: <a href="mailto:sidraraza680@gmail.com">sidraraza680@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Nm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0bm55Zmx0bmZpbmR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-    </td>
-  </tr>
-</table>
+Hi, I'm **Sidra Raza** — a passionate **Full Stack Developer & AI Engineer** focused on building intelligent, scalable, and modern web systems.
 
+- 🚀 Building real-world production-level projects  
+- 🧠 Exploring **Agentic AI Systems**  
+- 🌐 Creating fast, responsive apps using **Next.js + TypeScript**  
+- 🔐 Strong focus on **Authentication, Security & Performance**  
+- 📈 Continuously learning and improving  
 
-### 🌐 Connect With Me
+📫 **Email:** sidraraza680@gmail.com  
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://github.com/SidraRaza" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F"/>
+  <a href="https://github.com/SidraRaza">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/sidra-raza-9442132b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFE0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/sidra-raza-9442132b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sidraraza680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-39C0FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,react,nodejs,express,mongodb,py,git,github,vscode&theme=dark" />
-</p>
+# ⚡ Tech Stack
+
+### 💻 Frontend
+- HTML5, CSS3, Tailwind CSS  
+- JavaScript, TypeScript  
+- React.js, Next.js  
+
+### 🧠 Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+- REST APIs  
+- Authentication Systems  
 
 ---
 
-### 🚀 Featured Projects
-<p align="left">
-  <b>🧠 Agentic AI System</b> – Autonomous goal-driven AI agents <br/>
-  <b>🌐 Next.js Portfolio</b> – Responsive, modern personal portfolio <br/>
-  <b>📰 Blog Platform</b> – Dynamic post creation with Next.js + TypeScript <br/>
-  <b>🔐 Auth App</b> – Secure authentication using NextAuth.js
-</p>
+# 🚀 Featured Projects
+
+### 🧠 Agentic AI System
+Autonomous AI agents that think, learn, and perform tasks.
+
+### 🌐 Next.js Portfolio
+Modern responsive portfolio with best UI/UX practices.
+
+### 📰 Blog Platform
+Dynamic blog with post creation using Next.js + TypeScript.
+
+### 🔐 Auth App
+Secure authentication using NextAuth.js and JWT.
 
 ---
 
-### 🧠 Language Distribution
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=dracula&hide_border=true" height="180" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=dracula&hide_border=true" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="180" width="300"/>
-  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=dracula&hide_border=true" height="180" width="340"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=dracula&hide_border=true&area=true&radius=10" width="95%" />
-</p>
-
----
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=FFAA33&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">🌸 Designed & Coded by <a href="https://github.com/SidraRaza">Sidra Raza</a> — **Cyberpunk Developer & Agentic AI Innovator** ⚡</p>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidraRaza&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SidraRaza&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SidraRaza&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Agentic AI Development  
+- Full Stack Production Apps  
+- System Design  
+- Performance Optimization  
+
+---
+
+# 💡 Developer Mindset
+
+> “I don’t just build projects — I build systems that solve real problems.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SidraRaza&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  ⭐ Designed & Built by <b>Sidra Raza</b>  
+  <br/>
+  <i>Full Stack Developer • AI Engineer • Future Innovator</i>
+</p>
