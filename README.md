@@ -152,27 +152,12 @@ Authentication system with protected routes, session management and role-based a
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SidraRaza&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SidraRaza/SidraRaza/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
 
 # 🧠 Core Strengths
 
