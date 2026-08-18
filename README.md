@@ -143,13 +143,13 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
-## 🏆 Trophies
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SidraRaza&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
+</p> -->
 
-<br/>
+
 
 ## 📈 Contribution Activity
 
