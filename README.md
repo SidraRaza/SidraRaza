@@ -19,6 +19,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
+
 ## 👩‍💻 About Me
 
 Hi, I'm **Sidra Raza** — a passionate **Full Stack Developer & AI Engineer** dedicated to building scalable, secure, and intelligent digital products.
@@ -42,6 +44,8 @@ I focus on:
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -57,6 +61,8 @@ I focus on:
 </p>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -90,6 +96,8 @@ I focus on:
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
 
 ## 🚀 Featured Work
 
@@ -130,6 +138,8 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
+
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -143,13 +153,11 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
-
-
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SidraRaza&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p> -->
 
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
 
 ## 📈 Contribution Activity
 
@@ -159,15 +167,13 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
-
-
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/SidraRaza/SidraRaza/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <sub>💡 Snake graph needs one-time setup via a GitHub Action — ask me if you want the workflow file for this.</sub> -->
 
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
 
 ## 🧠 Core Strengths
 
@@ -182,6 +188,8 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=6&color=gradient&customColorList=2,6,12&width=100%" width="100%"/>
+
 ## 🎯 Current Focus
 
 - 🤖 Agentic AI development
@@ -193,7 +201,7 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <div align="center">
 
-### 💬 "Code is the closest thing we have to magic."
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Code+is+the+closest+thing+we+have+to+magic." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12&section=footer"/>
 
