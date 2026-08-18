@@ -133,7 +133,7 @@ Authentication using NextAuth.js with protected routes & RBAC.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SidraRaza&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=SidraRaza&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
