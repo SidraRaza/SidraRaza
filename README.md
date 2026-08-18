@@ -1,4 +1,3 @@
-````markdown
 <!-- =========================================================
      SIDRA RAZA — PREMIUM PROFESSIONAL GITHUB README
      Full Stack Developer • AI Engineer • Next.js Specialist
@@ -28,7 +27,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👩💻 About Me
 
 Hi, I'm **Sidra Raza** — a passionate **Full Stack Developer & AI Engineer** focused on building scalable, secure, and intelligent digital products.
 
@@ -197,19 +196,3 @@ Authentication system with protected routes, session management and role-based a
 🛠️ Scalable Backend Architecture
 🔐 Secure Authentication Systems
 🌍 Real-World Production Projects
-````
-
----
-
-# 💬 Developer Philosophy
-
-<div align="center">
-
-### "Build with purpose. Learn continuously. Ship consistently."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2F4B7C&section=footer"/>
-
-</div>
-```
