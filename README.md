@@ -159,15 +159,15 @@ Authentication using NextAuth.js with protected routes & RBAC.
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/SidraRaza/SidraRaza/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<sub>💡 Snake graph needs one-time setup via a GitHub Action — ask me if you want the workflow file for this.</sub>
+<sub>💡 Snake graph needs one-time setup via a GitHub Action — ask me if you want the workflow file for this.</sub> -->
 
-<br/>
+
 
 ## 🧠 Core Strengths
 
